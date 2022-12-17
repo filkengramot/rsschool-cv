@@ -13,7 +13,7 @@ _____________________________
 
 ____________________________
 ## Hard Skills and Technologies
-MS Excel, Power Pivor, Power Query
+MS Excel, Power Pivot, Power Query
 HTML5, CSS3
 JavaScript Basics
 Git, GitHub
