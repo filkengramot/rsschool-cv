@@ -49,7 +49,7 @@ English - C1 ADVANCED to C2 PROFICIENT - CEFR according to the test at https://w
 2. порадоваться
 3. поспать 
 
-###### Спасибо школе Rolling Scope! Вы восхитительны! Буду и я :)
+#### Спасибо школе Rolling Scope! Вы восхитительны! Буду и я :)
 
 
 
