@@ -1,12 +1,4 @@
-# Yushin Yuri
-## Junior Frontend Developer
-_____________________________
 
-## Contact Information
-
-**E-mail:** ..@ya.ru
-**Phone.no:** +7(111) 111 11 11
-**Telegram:** @..
 ____________________________
 ## Something about myself
 
@@ -61,6 +53,3 @@ __________________________
 3. Может быть поспать :) 
 
 #### Спасибо школе Rolling Scope! Вы восхитительны! Буду и я :)
-
-
-
