@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://filkengramot.github.io/rsschool-cv/cv
+https://wyuuuf.github.io/rsschool-cv/cv
